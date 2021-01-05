@@ -3,7 +3,6 @@
 
 <img align='right'  width='200' src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47rbnk63io62m5tz1jpdxwmhn7j7g62nz23u1tz5ac&rid=giphy.gif" />
 
-*Frontend Engineer @ [JTG](https://www.joshtechnologygroup.com/).💻*<br>
 *Final Year BTech-CSE.👨‍🎓*
 
 <p>
