@@ -3,7 +3,7 @@
 
 <img align='right'  width='200' src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47rbnk63io62m5tz1jpdxwmhn7j7g62nz23u1tz5ac&rid=giphy.gif" />
 
-*Final Year BTech-CSE.👨‍🎓*
+*Frontend Engineer @JTG*
 
 <p>
 <a href="https://twitter.com/AyushRajniwal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
